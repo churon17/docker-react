@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Angular is better than Angulaaar!
         </a>
       </header>
     </div>
